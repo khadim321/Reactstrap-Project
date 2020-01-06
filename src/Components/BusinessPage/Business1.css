@@ -1,0 +1,24 @@
+.businesssection1{
+	background-color: #003668;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+.businesssection1 h1{
+	font-size: 40px;
+	font-weight: bold;
+	padding-top: 0;
+	padding-bottom: 20px;
+	color: white;
+}
+.businesssection1 p{
+	font-size: 20px;
+	padding-top: 0;
+	padding-bottom: 20px;
+	color: white;
+}
+.businesssection1 a{
+	color: blue;
+	font-weight: bold;
+	font-size: 15px;
+	background-color: white;
+}

@@ -1,0 +1,18 @@
+.Form{
+    margin: auto;
+    padding: 30px;
+background-color: white!important;
+width: 50% !important;
+-webkit-box-shadow: 0 10px 6px -6px black;
+-moz-box-shadow: 0 10px 6px -6px black;
+box-shadow: 0 8px 10px -6px black;
+padding-top: 20px;
+padding-bottom: 20px;
+}
+.signup{
+    background-image: url("bgsignup.jpg");
+}
+.Formbg{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}

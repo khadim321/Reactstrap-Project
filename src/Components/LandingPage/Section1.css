@@ -1,0 +1,25 @@
+.section1{
+    padding-top: 20px;
+    background-color: #7451eb;
+}
+.section1 img{
+    width: 100%;
+    height: auto;
+}
+.discover button{
+    margin-right: 420px;
+	background-color: white !important;
+    color: blue !important;
+    font-size: 20px;
+}
+.paragraph{
+    color: white;
+    font-size: 20px;
+    text-align: left;
+}
+.heading{
+    color: white;
+    font-size: 50px;
+    text-align: left;
+    font-weight: bold;
+}

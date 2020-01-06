@@ -1,0 +1,24 @@
+.navbar ul{
+    font-size: 20px !important;
+    margin-left: 50px;
+}
+.navbar{
+    box-shadow: 0 8px 6px -6px black;
+}
+.navcolor{
+    background-color: transparent!important;
+}
+.logoimage{
+    width: 400px;
+    height: 30px;
+    margin-left: 10px;
+}
+.navbar a{
+    color: black !important;
+}
+.signbutton{
+    background-color: none !important;
+    color: black !important;
+    font-weight: bold !important;
+    font-size: 17px !important;
+}

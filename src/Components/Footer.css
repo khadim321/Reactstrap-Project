@@ -1,0 +1,80 @@
+
+.footer{
+	border: none;
+	padding-top: 20px;
+	padding-bottom: 30px;
+	font-size: 15px;
+	line-height: 2rem;
+}
+.learnmore{
+	padding-top: 25px;
+}
+.footer a{
+	padding-top: 10px;
+}
+.icons{
+	padding-top: 20px;
+	padding-bottom: 30px;
+	text-align: center;
+}
+.footer h2{
+	font-size: 20px;
+}
+.lastdiv{
+	padding-top: 10px;
+	color: white;
+}
+.icon i{
+    font-size: 1.6em;
+    width: 1.6em;
+    text-align: center;
+    line-height: 1.6em;
+    background: #666;
+    color: #fff;
+    border-radius: 0.8em;
+    margin: 10px;
+}
+.icon{
+      padding: 10px;
+      word-spacing: 0px;
+      padding-bottom: 10px;
+
+}
+.dropup{
+	padding-top: 20px;
+}
+.dropup button{
+	width: 200px;
+	height: 50px;
+	background-color: gray !important;
+    color: white;
+}
+.dropdown-menu{
+    width: 200px;
+}
+.btn-store {
+  color: #777777;
+  min-width: 250px;
+  height: 60px;
+  padding: 10px 15px !important;
+  border-color: #dddddd !important;
+}
+
+.btn-store:focus, 
+.btn-store:hover {
+  color: #ffffff !important;
+  background-color: gray ;
+  border-color: #168eea !important;
+  padding-top: 50px;
+}
+
+.btn-store .btn-label, 
+.btn-store .btn-caption {
+  display: block;
+  text-align: left;
+  line-height: 1;
+}
+
+.btn-store .btn-caption {
+  font-size: 20px;
+}
